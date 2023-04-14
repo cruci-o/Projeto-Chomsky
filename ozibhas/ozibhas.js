@@ -16,3 +16,9 @@ function calcular(){
 
 
 }   
+
+
+function test()
+{
+alert ("texto ebaa uhul")
+}
